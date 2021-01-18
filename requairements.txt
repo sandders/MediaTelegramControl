@@ -1,0 +1,2 @@
+PyAutoGUI==0.9.52
+pyTelegramBotAPI==3.7.4
